@@ -1,0 +1,9 @@
+#label{
+	-fx-background-color: #596DFF;
+	-fx-color: white;
+}
+
+.button:hover{
+	-fx-cursor: hand;
+	-fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 3, 0, 0, 0);
+	}
