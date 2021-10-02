@@ -1,17 +1,10 @@
 package projetJava;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import javafx.application.Application;
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
-import videotheque.Videotheque;
 
 public class Main extends Application {
 	
